@@ -17,6 +17,14 @@ return [
 
     'name' => env('APP_NAME', 'Laravel'),
 
+    'email' => 'info@alphaeduconsult.com',
+
+    'address' => '958 Durham St. Dover, NH 03820',
+
+    'phone' => 'XXXX XXX XXX XX',
+
+    'mobile' => 'XXXX XXX XXX XX',
+
     /*
     |--------------------------------------------------------------------------
     | Application Environment
