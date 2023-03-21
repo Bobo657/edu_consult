@@ -21,7 +21,7 @@ return [
 
     'address' => '958 Durham St. Dover, NH 03820',
 
-    'phone' => 'XXXX XXX XXX XX',
+    'phone' => '+234 909 257 7270',
 
     'mobile' => 'XXXX XXX XXX XX',
 

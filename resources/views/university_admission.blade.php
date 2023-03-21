@@ -24,7 +24,7 @@
                         <p>Apart from the students, we also provide on-site strategic information to our partner institutions to enable them penetrate the Nigerian market. These piece of information may include marketing strategies, Government funded scholarships, institution activities to attend, and many more. At our admission processing service, we understand the challenges that international students face when applying to study abroad. That's why we are committed to providing high-quality services to make the admission process as easy and stress-free as possible. We work closely with our clients to ensure that they are well-informed throughout the process and that their applications are submitted on time. If you are an international student looking to study abroad, our admission processing services can help you achieve your academic goals. Contact us today to learn more about our services and how we can help you with your application.</p>
 
                         <div class="col-xxl-6 col-lg-6">
-                            <img src="assets/img/university_admission.jpg" alt="= Image" class="mt-10" />
+                            <img src="assets/img/admission.jpg" alt="= Image" class="mt-10" />
                         </div>
 
                         <div class="col-xxl-6 col-lg-6">

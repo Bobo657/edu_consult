@@ -7,23 +7,8 @@
         <meta name="description" content=" At {{ config('app.name')}}, confidence is much more than just a word. It's the driving force behind the way we think of ourselves, the way we want the world to think of us, and the way we do business." />
         <meta name="keywords" content=" At {{ config('app.name')}}, confidence is much more than just a word. It's the driving force behind the way we think of ourselves, the way we want the world to think of us, and the way we do business." />
         <meta name="viewport" content="width=device-width,initial-scale=1,shrink-to-fit=no" />
-        <link rel="apple-touch-icon" sizes="57x57" href="/assets/img/favicons/apple-icon-57x57.png" />
-        <link rel="apple-touch-icon" sizes="60x60" href="/assets/img/favicons/apple-icon-60x60.png" />
-        <link rel="apple-touch-icon" sizes="72x72" href="/assets/img/favicons/apple-icon-72x72.png" />
-        <link rel="apple-touch-icon" sizes="76x76" href="/assets/img/favicons/apple-icon-76x76.png" />
-        <link rel="apple-touch-icon" sizes="114x114" href="/assets/img/favicons/apple-icon-114x114.png" />
-        <link rel="apple-touch-icon" sizes="120x120" href="/assets/img/favicons/apple-icon-120x120.png" />
-        <link rel="apple-touch-icon" sizes="144x144" href="/assets/img/favicons/apple-icon-144x144.png" />
-        <link rel="apple-touch-icon" sizes="152x152" href="/assets/img/favicons/apple-icon-152x152.png" />
-        <link rel="apple-touch-icon" sizes="180x180" href="/assets/img/favicons/apple-icon-180x180.png" />
-        <link rel="icon" type="image/png" sizes="192x192" href="/assets/img/favicons/android-icon-192x192.png" />
-        <link rel="icon" type="image/png" sizes="32x32" href="/assets/img/favicons/favicon-32x32.png" />
-        <link rel="icon" type="image/png" sizes="96x96" href="/assets/img/favicons/favicon-96x96.png" />
-        <link rel="icon" type="image/png" sizes="16x16" href="/assets/img/favicons/favicon-16x16.png" />
-        <link rel="manifest" href="/assets/img/favicons/manifest.json" />
-        <meta name="msapplication-TileColor" content="#ffffff" />
-        <meta name="msapplication-TileImage" content="/assets/img/favicons/ms-icon-144x144.png" />
-        <meta name="theme-color" content="#ffffff" />
+        <link rel="shortcut icon"  href="/assets/img/favicon.png" type="image/x-icon" />
+        <link rel="icon" href="/assets/img/favicon.png" type="image/x-icon" />
         <link rel="preconnect" href="https://fonts.googleapis.com/" />
         <link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin />
         <link href="https://fonts.googleapis.com/css2?family=Jost:wght@100;200;300;400;500;600;700;800;900&amp;family=Roboto:wght@100;300;400;500;700&amp;display=swap" rel="stylesheet" />
@@ -94,7 +79,7 @@
                             <div class="row align-items-center justify-content-between">
                                 <div class="col-auto">
                                     <div class="header-logo">
-                                        <a href="/"><img src="assets/img/logo.png" alt="Acadu" /></a>
+                                        <a href="/"><img width="180px" src="assets/img/logo.png" alt="{{ config('app.name') }}" /></a>
                                     </div>
                                 </div>
                                 <div class="col-auto">
@@ -171,10 +156,12 @@
                                 <h3 class="widget_title">Services</h3>
                                 <div class="menu-all-pages-container">
                                     <ul class="menu">
-                                        <li><a href="/professional_advice">Professional Advice</a></li>
-                                        <li><a href="/university_admission">University Admission</a></li>
-                                        <li><a href="/post_admission_services">Post Admission Services</a></li>
-                                        <li><a href="/visa_assistance">Visa Assistance</a></li>
+                                    <li><a href="/professional_advice">Professional Career Advisory</a></li>
+                                    <li><a href="/university_admission">Admission Processing</a></li>
+                                    <li><a href="/post_admission_services">Pre-depature Briefing</a></li>
+                                    <li><a href="/visa_assistance">Visa Assistance & Counselling</a></li>
+                                    <li><a href="/accomodation_arrangement">Accomodation Arrangement</a></li>
+                                    <li><a href="/budgeting">Education Budgeting </a></li>
                                     </ul>
                                 </div>
                             </div>

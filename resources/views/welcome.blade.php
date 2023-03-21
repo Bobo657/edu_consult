@@ -74,7 +74,7 @@
         <div class="row align-items-center">
             <div class="col-xl-6">
                 <div class="img-box1">
-                    <img class="w-100" src="/assets/img/why.jpg" alt="About" />
+                    <img class="w-100" src="/assets/img/visa.jpg" alt="About" />
                     <img class="w-100" src="/assets/img/group.jpg" alt="About" />
                     
                 </div>
@@ -245,7 +245,7 @@
     <div class="container">
         <div class="row">
             <div class="col-xl-4 mb-40 mb-xl-0">
-                <div class="img-box3"><img class="w-100" src="/assets/img/young.jpg" alt="About" /></div>
+                <div class="img-box3"><img class="w-100" src="/assets/img/grp.jpg" alt="About" /></div>
             </div>
             <div class="col-xxl-7 col-xl-8 align-self-end">
                 <div class="about-content">

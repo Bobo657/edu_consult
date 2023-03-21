@@ -23,7 +23,7 @@
                         <p>Education budgeting and costing services can provide invaluable support to international students who are looking to manage their finances while studying abroad. These services are designed to help students understand the costs associated with their education and to create a personalized budget that meets their specific needs and goals. International students studying abroad can benefit from education budgeting and costing services. These services help students understand the cost of living in their new country, create a realistic budget, identify ways to save money, plan for unexpected expenses, and stay on track with their financial goals. By working with a professional service provider, international students can effectively manage their finances and achieve academic success.</p>
 
                         <div class="col-xxl-6 col-lg-6">
-                            <img src="assets/img/university_admission.jpg" alt="= Image" class="mt-10" />
+                            <img src="assets/img/budgeting.jpg" alt="= Image" class="mt-10" />
                         </div>
 
                         <div class="col-xxl-6 col-lg-6">
