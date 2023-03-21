@@ -4,10 +4,8 @@
         <meta charset="utf-8" />
         <meta http-equiv="x-ua-compatible" content="ie=edge" />
         <title>{{ config('app.name')}} - @yield('title')</title>
-        <meta name="author" content="Angfuzsoft" />
-        <meta name="description" content="Acadu - Online Courses & Education HTML Template" />
-        <meta name="keywords" content="Acadu - Online Courses & Education HTML Template" />
-        <meta name="robots" content="INDEX,FOLLOW" />
+        <meta name="description" content=" At {{ config('app.name')}}, confidence is much more than just a word. It's the driving force behind the way we think of ourselves, the way we want the world to think of us, and the way we do business." />
+        <meta name="keywords" content=" At {{ config('app.name')}}, confidence is much more than just a word. It's the driving force behind the way we think of ourselves, the way we want the world to think of us, and the way we do business." />
         <meta name="viewport" content="width=device-width,initial-scale=1,shrink-to-fit=no" />
         <link rel="apple-touch-icon" sizes="57x57" href="/assets/img/favicons/apple-icon-57x57.png" />
         <link rel="apple-touch-icon" sizes="60x60" href="/assets/img/favicons/apple-icon-60x60.png" />
