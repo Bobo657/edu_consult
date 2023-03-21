@@ -34,11 +34,11 @@
         <link rel="stylesheet" href="/assets/css/style.css" />
     </head>
     <body>
-        <div class="preloader">
+        <!-- <div class="preloader">
           
             <div class="preloader-inner"><span class="loader"></span></div>
         </div>
-       
+        -->
        
         <div class="as-menu-wrapper">
             <div class="as-menu-area text-center">
@@ -108,10 +108,12 @@
                                                     <li class="menu-item-has-children">
                                                         <a href="#">Services</a>
                                                         <ul class="sub-menu">
-                                                            <li><a href="/professional_advice">Professional Advice</a></li>
-                                                            <li><a href="/university_admission">University Admission</a></li>
-                                                            <li><a href="/post_admission_services">Post Admission Services</a></li>
-                                                            <li><a href="/visa_assistance">Visa Assistance</a></li>
+                                                            <li><a href="/professional_advice">Professional Career Advisory</a></li>
+                                                            <li><a href="/university_admission">Admission Processing</a></li>
+                                                            <li><a href="/post_admission_services">Pre-depature Briefing</a></li>
+                                                            <li><a href="/visa_assistance">Visa Assistance & Counselling</a></li>
+                                                            <li><a href="/accomodation_arrangement">Accomodation Arrangement</a></li>
+                                                            <li><a href="/budgeting">Education Budgeting </a></li>
                                                         </ul>
                                                     </li>
                                                     <li><a href="about_us">About Us</a></li>

@@ -25,6 +25,8 @@ return [
 
     'mobile' => 'XXXX XXX XXX XX',
 
+    'theme' => 'acadu',
+
     /*
     |--------------------------------------------------------------------------
     | Application Environment

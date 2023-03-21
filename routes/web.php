@@ -25,18 +25,17 @@ Route::view('/professional_advice', 'professional_advice');
 Route::view('/university_admission', 'university_admission');
 Route::view('/post_admission_services', 'post_admission_services');
 Route::view('/visa_assistance', 'visa_assistance');
+Route::view('/budgeting', 'budgeting');
+Route::view('/accomodation_arrangement', 'accomodation_arrangement');
 
 Route::post('/contact', function () {
-
     $validated = request()->validate([
                     "name" => 'required|max:255',
                     "email" => 'required|email|max:255',
                     "subject" => 'required|max:255',
                     "number" =>  'required|max:255',
                     "message" => 'required|max:255'
-                
                 ]);
-
 
     Mail::to(config('app.email'))->send(new ContactUsMail($validated));
 
