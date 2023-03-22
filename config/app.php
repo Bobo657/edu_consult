@@ -19,7 +19,7 @@ return [
 
     'email' => 'info@alphaeduconsult.com',
 
-    'address' => '958 Durham St. Dover, NH 03820',
+    'address' => 'SUITE 70 Grand Mall 33A Abakaliki Road GRA, Enugu State Nigeria',
 
     'phone' => '+234 909 257 7270',
 
