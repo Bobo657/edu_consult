@@ -23,7 +23,9 @@
     <div class="container">
         <div class="map-contact">
             <h3 class="border-title">Get in Touch</h3>
-            <p class="mt-n1 mb-30">Have a inquiry or some feedback for us? Fill out the form below to contact our team. please contact us at hello@acadu.com.</p>
+            <p class="mt-n1 mb-30">
+                Have a inquiry or some feedback for us? Fill out the form below to contact our team. Please contact us at {{ config('app.email') }}.
+            </p>
             <div class="contact-info">
                 <div class="contact-info_icon"><i class="fal fa-location-dot"></i></div>
                 <div class="media-body">
@@ -50,7 +52,7 @@
         </div>
     </div>
 </div>
-<section class="space">
+<section class="">
     <div class="container">
         <div class="row justify-content-center">
             <div class="col-lg-6 col-md-7 col-sm-9"><div class="title-area text-center"></div></div>
