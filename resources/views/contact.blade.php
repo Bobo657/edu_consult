@@ -40,6 +40,9 @@
                     <span class="contact-info_text"  id="mobile">
                         <span>Mobile: <a href="tel:+{{ config('app.phone1')}}">{{ config('app.phone') }}</a></span>
                     </span>
+                    <span class="contact-info_text"  id="mobile">
+                        <span>Mobile2: <a href="tel:+{{ config('app.phone1')}}">{{ config('app.mobile') }}</a></span>
+                    </span>
                 </div>
             </div>
             <div class="contact-info">
