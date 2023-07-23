@@ -19,7 +19,7 @@ return [
 
     'email' => 'info@alphaeduconsult.com',
 
-    'address' => 'SUITE 70 (Grand Mall) 33A, Abakaliki Road, GRA, Enugu State, Nigeria.',
+    'address' => 'SUITE 70 (Grand Mall), 33A Abakaliki Road, GRA, Enugu, Enugu State, Nigeria.',
 
     'phone' => '+234 909 257 7270',
 

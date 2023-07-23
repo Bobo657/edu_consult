@@ -15,7 +15,7 @@
 <div class="map-sec space">  
     <div class="map" id="contact">
         <iframe
-            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3644.7310056272386!2d89.2286059153658!3d24.00527418490799!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x39fe9b97badc6151%3A0x30b048c9fb2129bc!2sAngfuzsoft!5e0!3m2!1sen!2sbd!4v1651028958211!5m2!1sen!2sbd"
+            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3964.473804646956!2d7.49910401477038!3d6.461498295325493!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x1044a3bb4fd78097%3A0x572bf85eb3ae1fcb!2sGrand%20Mall!5e0!3m2!1sen!2sng!4v1690116557697!5m2!1sen!2sng"
             allowfullscreen=""
             loading="lazy"
         ></iframe>
@@ -30,7 +30,7 @@
                 <div class="contact-info_icon"><i class="fal fa-location-dot"></i></div>
                 <div class="media-body">
                     <h4 class="contact-info_title">Our Address</h4>
-                    <a href="#contact"><span class="contact-info_text">{{ config('app.address')}}</span></a>
+                    <a href="https://goo.gl/maps/NS2MyYghu5eEJrth7"><span class="contact-info_text">{{ config('app.address')}}</span></a>
                 </div>
             </div>
             <div class="contact-info">
@@ -49,7 +49,7 @@
                 <div class="contact-info_icon"><i class="fal fa-clock"></i></div>
                 <div class="media-body">
                     <h4 class="contact-info_title">Hours of Operation</h4>
-                    <span class="contact-info_text"><span>Monday - Friday: 09:00 - 4:00</span> <span>Saturday: 9:30 - 2:00</span></span>
+                    <span class="contact-info_text"><span>Monday - Friday: 09:00 - 5:30</span> <span>Saturday: 10:00 - 2:30</span></span>
                 </div>
             </div>
         </div>
