@@ -23,13 +23,16 @@
                 </div>
             </div>
             <div class="col-xl-6">
+
                 <div class="title-area mb-35">
                     <span class="sub-title">Who We Are</span>
                     <h2 class="sec-title fw-semibold">About {{ config('app.name') }}</h2>
                 </div>
+                
                 <p class="mt-n2 mb-35">
-                    {{ config('app.name')}} is a leading Study Abroad Consultant in Nigeria with years of professional student placement and visa counseling service experience representing and placing students into A-Level, Foundation, Undergraduate, Postgraduate and PHD degree Programs at top and world ranked institutions around the world mainly in the United Kingdom, United States of America, Canada, Ireland, Singapore, Malaysia and the United Arab Emirates. 
+                    {{ config('app.name')}} is a leading Study Abroad Consultant in Nigeria with years of professional student placement and visa counseling service experience representing and placing students into A-Level, Foundation, Undergraduate, Postgraduate and PHD degree Programs at top and world ranked institutions around the world mainly in the United Kingdom, Canada, Malaysia.
                 </p>
+
                 <p class="mt-n2 mb-35">
                     In line with the vision of the company to provide an all- rounded educational service package, a list of top professionals with industry experience have been recruited. We understand that managing the career of education seekers can be quite delicate; therefore, we attach so much importance to details and utmost adherence to standards.
                 </p>
