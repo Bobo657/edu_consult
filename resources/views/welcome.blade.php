@@ -1,5 +1,5 @@
 @extends('layout')
-@section('title', 'Homepage')
+@section('title', 'Home page')
 @section('content')
 <div class="as-hero-wrapper hero-6">
     <div class="hero-slider-6 as-carousel" id="heroSlide6" data-slide-show="1" data-md-slide-show="1" data-fade="true">

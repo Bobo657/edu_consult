@@ -29,19 +29,37 @@
             <div class="contact-info">
                 <div class="contact-info_icon"><i class="fal fa-location-dot"></i></div>
                 <div class="media-body">
-                    <h4 class="contact-info_title">Our Address</h4>
+                    <h4 class="contact-info_title">Nigeria Address </h4>
                     <a href="https://goo.gl/maps/NS2MyYghu5eEJrth7"><span class="contact-info_text">{{ config('app.address')}}</span></a>
                 </div>
             </div>
             <div class="contact-info">
                 <div class="contact-info_icon"><i class="fal fa-phone"></i></div>
                 <div class="media-body">
-                    <h4 class="contact-info_title">Phone Number</h4>
+                    <h4 class="contact-info_title">Phone Number - Nigeria</h4>
                     <span class="contact-info_text"  id="mobile">
-                        <span>Mobile: <a href="tel:+{{ config('app.phone1')}}">{{ config('app.phone') }}</a></span>
+                        <span>
+                            Mobile: <a href="tel:+{{ config('app.phone1')}}">{{ config('app.phone') }}</a>
+                        </span>
                     </span>
                     <span class="contact-info_text"  id="mobile">
-                        <span>Mobile2: <a href="tel:+{{ config('app.phone1')}}">{{ config('app.mobile') }}</a></span>
+                        Mobile2: <a href="tel:+{{ config('app.mobile')}}">{{ config('app.mobile') }}</a>
+                    </span>
+                </div>
+            </div>
+            <div class="contact-info">
+                <div class="contact-info_icon">
+                    <i class="fal fa-phone"></i>
+                </div>
+                <div class="media-body">
+                    <h4 class="contact-info_title">Phone Number - Cameroon </h4>
+                    <span class="contact-info_text" id="mobile">
+                        <span>
+                            Mobile: <a href="tel:+{{ config('app.cameroon_phone')}}">{{ config('app.cameroon_phone') }}</a>
+                        </span>
+                    </span>
+                    <span class="contact-info_text" id="mobile">
+                        Mobile2: <a href="tel:+{{ config('app.cameroon_mobile')}}">{{ config('app.cameroon_mobile') }}</a>
                     </span>
                 </div>
             </div>

@@ -25,6 +25,10 @@ return [
 
     'mobile'=> '+234 817 485 6006',
 
+    'cameroon_phone' => '+23 7656 7277',
+
+    'cameroon_mobile'=> '+44 7463 0400 26',
+    
     'theme' => 'acadu',
 
     /*
